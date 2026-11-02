@@ -8,3 +8,8 @@ title: ddaogi-dev apps
 
 - [Privacy policy](bill-reminder/privacy/)
 - Contact: ddaogi.dev@gmail.com
+
+## Countdown Widget: Days Until
+
+- [Privacy policy](countdown/privacy/)
+- Contact: ddaogi.dev@gmail.com
