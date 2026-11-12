@@ -13,3 +13,8 @@ title: ddaogi-dev apps
 
 - [Privacy policy](countdown/privacy/)
 - Contact: ddaogi.dev@gmail.com
+
+## Tankbook: Gas Mileage Tracker
+
+- [Privacy policy](fuel-log/privacy/)
+- Contact: ddaogi.dev@gmail.com
