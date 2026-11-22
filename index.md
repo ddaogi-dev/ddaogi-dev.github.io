@@ -18,3 +18,8 @@ title: ddaogi-dev apps
 
 - [Privacy policy](fuel-log/privacy/)
 - Contact: ddaogi.dev@gmail.com
+
+## Sudoku Steps: Learn & Solve
+
+- [Privacy policy](sudoku/privacy/)
+- Contact: ddaogi.dev@gmail.com
